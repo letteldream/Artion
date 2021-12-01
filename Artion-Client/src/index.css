@@ -1,0 +1,45 @@
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #007bff !important;
+}
+
+.css-gr2aqs {
+  background-color: #007bff !important;
+}
+
+body {
+  margin: 0 !important;
+  overflow: auto;
+}
+.slick-slide {
+  outline: none;
+  width: unset !important;
+  /* width: 360px !important; */
+}
+
+body * {
+  font-family: 'proxima-nova' !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 6px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 6px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
